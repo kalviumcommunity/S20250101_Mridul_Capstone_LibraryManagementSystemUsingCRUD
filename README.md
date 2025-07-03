@@ -87,3 +87,4 @@ npm install
 
 npm start
 
+Capstone project started íº€
